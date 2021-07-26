@@ -25,7 +25,7 @@ SECRET_KEY = 'h9q5#0d@p$hqtcv5xk+ezobl#va^3m#8erf4+w_1kw14sz7#@h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['SEMAPE-env.eba-rk3shm7m.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['Semape-env-1.eba-xvfbmmpn.us-east-2.elasticbeanstalk.com']
 
 
 # Application definition
